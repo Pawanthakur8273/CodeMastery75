@@ -20,7 +20,21 @@ The **75-Day Hard Coding Challenge** is designed to push my limits as a C++ deve
 
 Each day’s folder will contain:
 
-- **Problem statement** (if applicable)
+- **Problem statement**
 - **C++ solution** (code)
-- **Notes and explanations** (if needed)
+- **Notes and explanations**
+
+## 🌟 Goals
+
+By the end of this challenge, I aim to:
+
+- Improve my problem-solving skills in C++
+- Master important algorithms and data structures
+- Write efficient and clean C++ code
+- Stay consistent and disciplined throughout the challenge
+
+## 🚀 Follow My Journey
+
+Feel free to follow my journey and contribute any feedback! If you spot improvements or want to collaborate, you're welcome to submit a pull request.
+
 
